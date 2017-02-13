@@ -1,0 +1,10 @@
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\bin\Debug\Services.dll.config
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\bin\Debug\Services.dll
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\bin\Debug\Services.pdb
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\bin\Debug\EntityFramework.dll
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\bin\Debug\EntityFramework.xml
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\obj\Debug\Services.dll
+C:\Users\maroo\Documents\Visual Studio 2015\Projects\DevStromNet\Services\obj\Debug\Services.pdb
